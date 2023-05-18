@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\RJ1_demo\RJ1_demo\bin\Debug\RJ1_demo.rxtmg
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\RJ1_demo\RJ1_demo\bin\Debug\RJ1_demo.rxtst
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\RJ1_demo\RJ1_demo\bin\Debug\RJ1_demo.exe.config
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\RJ1_demo\RJ1_demo\bin\Debug\RJ1_demo.xml
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\RJ1_demo\RJ1_demo\bin\Debug\RJ1_demo.exe
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\RJ1_demo\RJ1_demo\bin\Debug\RJ1_demo.pdb
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\RJ1_demo\RJ1_demo\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\RJ1_demo\RJ1_demo\obj\x86\Debug\RJ1_demo.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\RJ1_demo\RJ1_demo\obj\x86\Debug\RJ1_demo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\RJ1_demo\RJ1_demo\obj\x86\Debug\RJ1_demo.csproj.CopyComplete
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\RJ1_demo\RJ1_demo\obj\x86\Debug\RJ1_demo.exe
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\RJ1_demo\RJ1_demo\obj\x86\Debug\RJ1_demo.pdb

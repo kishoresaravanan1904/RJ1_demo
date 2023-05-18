@@ -1,0 +1,62 @@
+﻿<repository
+id="23f92578-83e6-4752-af05-302ac9e59c93"
+name="RJ1_demoRepository">
+	<codegen
+	classname="RJ1_demoRepository"
+	namespace="RJ1_demo">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="51a05f38-b411-4604-9add-4d41699b24bc"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="form,control,nativewindow"
+		capname="form"
+		id="692e1790-8f4e-49c9-9d3f-e8d64e7fd364"
+		isrooted="True"
+		name="RxMainFrame"
+		refpath="/form[@title='Ranorex Studio Demo Application']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="text,accessible"
+			capname="text"
+			id="a807e97a-4ed4-4b66-9ec7-864d001c1b22"
+			name="EnterYourName"
+			refimgid="51acabae-b2ab-4dbc-9401-97fbf28ad420"
+			refpath="/form[@title>'Ranorex Studio Demo Appli']/tabpagelist/tabpage[@title='Introduction' and @index='0' and @controlname='RxTabIntroduction']/text[@controlname='txtUserName']/text[@accessiblename='Enter your name']"
+			robustPath="/form[@title>'Ranorex Studio Demo Appli']//text[@accessiblename='Enter your name']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'Ranorex Studio Demo Appli']/?/?/tabpage[@index='0' and @controlname='RxTabIntroduction']/?/?/text[@accessiblename='Enter your name']
+			</item>
+			<item
+			addcaps="button,control,nativewindow"
+			capname="button"
+			id="44a1bcec-366e-4942-9099-c77add612475"
+			name="BtnSubmitUserName"
+			refimgid="2b3d43c9-3643-453a-bf53-337d39fa178d"
+			refpath="/form[@title>'Ranorex Studio Demo Appli']/tabpagelist/tabpage[@title='Introduction' and @index='0' and @controlname='RxTabIntroduction']/button[@text='Submit']"
+			robustPath="/form[@title>'Ranorex Studio Demo Appli']//button[@text='Submit']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'Ranorex Studio Demo Appli']/?/?/tabpage[@index='0' and @controlname='RxTabIntroduction']/button[@text='Submit']
+			</item>
+			<basepath>
+				/form[@title&gt;'Ranorex Studio Demo Appli']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAB9SURBVDhPY0AGwcHBi4D4NxD/x4NB8r+DgoJa
+odogACj4BqQAyiUdwDQ/YBfa+oBN6CA+DNaADmAGAAlGIGbCh8Ea0AHIACD+B8RficFQbQgAFAQa
+TjwABuI3KBMCSDEgICBAeNSAUQOwGgACIEOAEt8JYaC6H0AaaAADAwC5s5VutWbaWgAAAABJRU5E
+rkJggg==
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>
